@@ -1,1 +1,21 @@
 
+[
+  {
+    "id": 1,
+    "title": "2018 Toyota Corolla - 1.8L, Auto",
+    "price": 9995,
+    "miles": 62000,
+    "location": "London",
+    "description": "Reliable daily driver, full service history, 2 owners.",
+    "images": ["/images/toyota.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "2016 BMW 3 Series - 2.0L Diesel",
+    "price": 12995,
+    "miles": 85000,
+    "location": "Bristol",
+    "description": "Sporty and well maintained, recent brakes and tyres.",
+    "images": ["/images/bmw.jpg"]
+  }
+]
