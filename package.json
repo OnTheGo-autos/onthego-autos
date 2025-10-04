@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start"
   },
+  {
+  "type": "module",
+},
   "dependencies": {
     "next": "latest",
     "react": "latest",
